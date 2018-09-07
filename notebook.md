@@ -7,10 +7,10 @@ week 1 8/24/2018 - 8/30/2018
 week 2 8/27/2018 - 9/02/2018
 ============================
 
-* Refreshed Python course material
+* Refreshed with Python course material
 * Downloaded Vagrant for windows and accessed Ubunuty image via ssh
 
-week 2 09/03/2018 - 9/6/2018
+week 4 09/03/2018 - 9/6/2018
 ===========================
 
 * Setup 516 futuresystem and chamelon accounts
