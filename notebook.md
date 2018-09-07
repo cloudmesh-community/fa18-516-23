@@ -3,7 +3,8 @@ week 1 8/24/2018 - 8/30/2018
 
 * Submitted Bio-data
 * Reviewed Definition of Cloud Computing
-week 1 8/27/2018 - 9/02/2018
+
+week 2 8/27/2018 - 9/02/2018
 ============================
 
 * Refreshed Python course material
