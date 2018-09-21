@@ -17,5 +17,9 @@ week 3 09/07/2018 - 9/13/2018
 * Burned Ubuntu to USB Stick and working on creating make file for cloudmesh. Will include instructions in the markdown for reference
 * Reviewing the course material for contributing the section.
 
-
+week 34 09/14/2018 - 9/20/2018
+===========================
+* Testing cm-burn in Windows
+* Updating the cm-burn documentation for the necessary steps
+* Reviewing the course material - Infrastructure, Chameleon Cloud and Programming
 
