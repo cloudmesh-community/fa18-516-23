@@ -23,7 +23,7 @@ week 4 09/14/2018 - 9/20/2018
 * Updating the cm-burn documentation for the necessary steps
 * Reviewing the course material - Infrastructure, Chameleon Cloud and Programming
 
-week 5 09/21/2018 - 9/28/2018
+week 5 09/21/2018 - 9/27/2018
 ===========================
 * Updated the cm-burn documentation specific to Windows
 * Review pi.epub and integrating the content for cm-burn and pi setting up clusters
