@@ -28,3 +28,6 @@ week 5 09/21/2018 - 9/28/2018
 * Updated the cm-burn documentation specific to Windows
 * Review pi.epub and integrating the content for cm-burn and pi setting up clusters
 
+week 5 09/28/2018 - 10/04/2018
+===========================
+* Update cm-burn to use etcher-cli and test it in Windows
