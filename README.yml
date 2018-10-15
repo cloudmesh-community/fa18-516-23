@@ -9,3 +9,17 @@ owner:
   lastname: "Sriramulu"
   hid: "fa18-516-23"
   community: "e516"
+technologies:
+  - url: https://github.com/cloudmesh-community/cm-burn/blob/master/README.md
+  - url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/setup-multiple.md
+paper:
+  - keyword:
+    title: 
+    url: 
+    group: 
+project:
+  - keyword: TBD
+    title: TBD
+    url: https://github.com/cloudmesh-community/fa18-523-23/project-report/report.md
+    group: fa18-523-23
+    code:
