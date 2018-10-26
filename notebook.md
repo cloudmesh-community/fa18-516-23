@@ -28,6 +28,18 @@ week 5 09/21/2018 - 9/27/2018
 * Updated the cm-burn documentation specific to Windows
 * Review pi.epub and integrating the content for cm-burn and pi setting up clusters
 
-week 5 09/28/2018 - 10/04/2018
+week 6 09/28/2018 - 10/04/2018
 ===========================
 * Update cm-burn to use etcher-cli and test it in Windows
+
+week 7 10/05/2018 - 10/11/2018
+===========================
+* Review course material graphQL, Kubernetes, Docker Clusters, Hadoop and Spark
+
+week 8 10/12/2018 - 10/18/2018
+===========================
+* Update to section - Setting Large PI Cluster in pi epub
+
+Week Fri 10/19/18 - 10/25/18
+===========================
+* Research on project with PI - Kubernetes Cluster - Slurm
