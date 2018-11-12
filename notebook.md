@@ -43,3 +43,12 @@ week 8 10/12/2018 - 10/18/2018
 Week Fri 10/19/18 - 10/25/18
 ===========================
 * Research on project with PI - Kubernetes Cluster - Slurm
+
+Week Fri 10/26/18 - 11/01/18
+===========================
+* Working on OpenFaas Sections
+* Exploring OpenFass with PI Cluster
+
+Week Fri 11/02/18 - 11/08/18
+===========================
+* Working on project OpenFaaS & Docker on a Raspberry Pi Multi-Node Cluster
