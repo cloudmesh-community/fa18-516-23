@@ -13,10 +13,6 @@ section:
   - title : OpenFaas
   - Keyword: faas, OpenFaas
   - url: https://github.com/cloudmesh-community/book/blob/master/chapters/faas/openfaas.md
-section:
-  - title : Microsoft Azure Function
-  - Keyword: faas, OpenFaas
-  - url: https://github.com/cloudmesh-community/book/blob/master/chapters/faas/microsoft-azure-functions.md
 chapter:
     - title: Setup multipe PI SDs with cm-burn
     - keyword: PI, cm-burn, cluster
