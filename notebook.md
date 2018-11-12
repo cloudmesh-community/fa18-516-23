@@ -51,4 +51,5 @@ Week Fri 10/26/18 - 11/01/18
 
 Week Fri 11/02/18 - 11/08/18
 ===========================
-* Working on project OpenFaaS & Docker on a Raspberry Pi Multi-Node Cluster
+* Updating cm-burn to make it work for Windows due to recent refactoring
+* Working on project OpenFaaS & Docker on a Raspberry Pi Multi-Node Cluster with cm-burn
