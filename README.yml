@@ -9,17 +9,21 @@ owner:
   lastname: "Sriramulu"
   hid: "fa18-516-23"
   community: "e516"
-technologies:
-  - url: https://github.com/cloudmesh-community/cm-burn/blob/master/README.md
-  - url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/setup-multiple.md
-paper:
-  - keyword:
-    title: 
-    url: 
-    group: 
+section:
+  - title : OpenFaas
+  - Keyword: faas, OpenFaas
+  - url: https://github.com/cloudmesh-community/book/blob/master/chapters/faas/openfaas.md
+section:
+  - title : Microsoft Azure Function
+  - Keyword: faas, OpenFaas
+  - url: https://github.com/cloudmesh-community/book/blob/master/chapters/faas/microsoft-azure-functions.md
+chapter:
+    - title: Setup multipe PI SDs with cm-burn
+    - keyword: PI, cm-burn, cluster
+    - url:https://github.com/cloudmesh-community/book/blob/master/chapters/pi/setup-multiple.md 
+          https://github.com/cloudmesh-community/cm-burn/blob/master/README.md
 project:
-  - keyword: TBD
-    title: TBD
-    url: https://github.com/cloudmesh-community/fa18-523-23/project-report/report.md
-    group: fa18-523-23
-    code:
+    - title: OpenFaaS & Docker on a Raspberry Pi Multi-Node Cluster with cm-burn
+      keyword: Cloud Computing, FaaS, OpenFaaS, PI, cm-burn, docker, kubernetes
+      url: https://github.com/cloudmesh-community/fa18-516-23/blob/master/project-paper/paper.md 
+      code: https://github.com/cloudmesh-community/fa18-516-23/blob/master/project-code/paper.md 
