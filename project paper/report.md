@@ -1,9 +1,9 @@
 # OpenFaaS & Docker on a Raspberry Pi Multi-Node Cluster with cm-burn Report :hand: fa18-516-23
 
 | Anand Sriramulu
-| asruran@iu.edu
+| asriram@iu.edu
 | Indiana University
-| hid: fa18-516-03
+| hid: fa18-516-23
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-516-23)
 | code: [:cloud:](https://github.com/cloudmesh-community/cm-burn)
 | code: [:cloud:](https://github.com/cloudmesh-community/pi)
