@@ -21,5 +21,5 @@ chapter:
 project:
     - title: OpenFaaS & Docker on a Raspberry Pi Multi-Node Cluster with cm-burn
       keyword: Cloud Computing, FaaS, OpenFaaS, PI, cm-burn, docker, kubernetes
-      url: https://github.com/cloudmesh-community/fa18-516-23/blob/master/project-report/report.md 
+      url: https://github.com/cloudmesh-community/fa18-516-23/blob/master/project-report/report.md
       code: https://github.com/cloudmesh-community/fa18-516-23/blob/master/project-code/ 
