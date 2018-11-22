@@ -14,7 +14,7 @@ section:
   - title : OpenFaas
     keyword: faas, OpenFaas
     url: https://github.com/cloudmesh-community/book/blob/master/chapters/faas/openfaas.md
-chapter:
+paper:
   - title: Setup multipe PI SDs with cm-burn
     keyword: PI, cm-burn, cluster
     url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/setup-multiple.md 
